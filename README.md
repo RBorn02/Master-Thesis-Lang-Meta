@@ -117,7 +117,7 @@ Batch scripts for all our evaluation results can be found under eval
   <img src="https://github.com/RBorn02/Embodied-Meta-Lang/raw/main/Videos/7_objs_explore_2.gif" width="300">
 </div>
 
-#### Combi Explore Setting
+### Combi Explore Setting
 
 <div style="display: flex; gap: 100px;">
   <img src="https://github.com/RBorn02/Embodied-Meta-Lang/raw/main/Videos/combi_explore_1.gif" width="300">
